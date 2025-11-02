@@ -50,7 +50,7 @@ endif()
 project(
     "vanta"
     VERSION 0.1.0
-    LANGUAGES CXX CUDA
+    LANGUAGES CXX
 )
 
 # Include sub-projects.

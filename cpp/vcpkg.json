@@ -1,5 +1,8 @@
 {
   "dependencies": [
-    "gtest"
+    "glfw3",
+    "glm",
+    "gtest",
+    "vulkan"
   ]
 }
