@@ -3,6 +3,13 @@
     "glfw3",
     "glm",
     "gtest",
+    {
+      "name": "imgui",
+      "features": [
+        "glfw-binding",
+        "vulkan-binding"
+      ]
+    },
     "vulkan"
   ]
 }

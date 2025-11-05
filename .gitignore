@@ -21,3 +21,6 @@ out/
 
 # JetBrains
 .idea/
+
+# imgui
+imgui.ini
